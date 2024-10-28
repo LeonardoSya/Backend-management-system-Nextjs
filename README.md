@@ -62,6 +62,7 @@ npm run dev
 npm run build
 ```
 5. 项目结构
+```
 Backend-management-system-Nextjs/
 ├── app/                    # 应用主目录
 │   ├── dashboard/         # 仪表盘模块
@@ -79,7 +80,7 @@ Backend-management-system-Nextjs/
 ├── lib/                 # 工具函数
 ├── public/              # 静态资源
 └── styles/              # 样式文件
-
+```
 ## 许可证
 
 MIT License
